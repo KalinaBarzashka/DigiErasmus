@@ -1,1 +1,1 @@
-# digierasmus
+# DigiErasmus
